@@ -49,3 +49,6 @@
   align-items: center;
   gap: 20px;
 }
+.button-style {
+  display: flex;
+}
